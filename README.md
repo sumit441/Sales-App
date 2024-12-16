@@ -1,2 +1,3 @@
 # Sales-App
-This is first repository
+This is first repository.
+Author - Sumit Lama
